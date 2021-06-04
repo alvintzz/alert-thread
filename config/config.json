@@ -1,0 +1,14 @@
+{
+    "server": {
+        "port":          ":9010",
+        "read_timeout":  30,
+        "write_timeout": 30
+    },
+    "log": {
+        "level":  "debug",
+        "format": "standard"
+    },
+    "slack": {
+        "token": ""
+    }
+}
